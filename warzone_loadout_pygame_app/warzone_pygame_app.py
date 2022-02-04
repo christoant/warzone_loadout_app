@@ -201,6 +201,8 @@ def draw_labels():
         x_pos = starting_pos + width_sum + (i * 50)
         WIN.blit(label, (x_pos, 85))
 
+    print("hello pc!")
+
 
 def main():
 
